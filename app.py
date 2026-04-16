@@ -17,3 +17,5 @@ else:
 
 st.write("Risk Score:", round(risk_score,2))
 st.write("Category:", category)
+st.markdown("---")
+st.success("Thank you for your time!")
